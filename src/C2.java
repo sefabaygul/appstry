@@ -5,7 +5,6 @@ public class C2 {
 
         int num1 = 5;
         String str = "String";
-        String str1 = "String";
 
     }
 }
